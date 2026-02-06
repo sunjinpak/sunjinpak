@@ -61,7 +61,7 @@ Your final paper should include:
 1. Use the [Qualitative Research Paper Guide](qualitative-research-paper-guide) for paper structure and APA formatting
 2. Create a **Thematic Summary Table**
 3. Include **HR Policy Recommendations** table in your Discussion section
-4. **Collaboration**: Use [Google Docs](https://docs.google.com/) to write with your co-author in real-time
+4. **Collaboration**: Use [Google Docs](https://docs.google.com/spreadsheets/d/1CFPfVthxXhWM2nncaMf-n7-8NzE5fSl6hL3B-SD1Mz0/edit?usp=sharing) to write with your co-author in real-time
 
 ---
 
