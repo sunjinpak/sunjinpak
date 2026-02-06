@@ -82,9 +82,9 @@ See [Research Presentation Guide](research-presentation-guide) for detailed inst
 
 | Task | Deadline |
 |------|----------|
-| Complete Data Collection | February 7, 2026 (Fri) |
+| Data Collection & Finalize Coding Table | February 5 - 19, 2026 (2 weeks) |
 | Draft Introduction | February 14, 2026 (Fri) |
-| Draft Findings | February 19, 2026 (Wed) |
+| Draft Findings | February 20, 2026 (Fri) |
 | Complete Paper & Application | **February 23, 2026 (Mon)** |
 | Prepare Presentation (PPT) | February 24 - March 5, 2026 |
 | **SRC Presentation** | **March 6, 2026 (Fri)** 8:30 AM - 1:30 PM |
