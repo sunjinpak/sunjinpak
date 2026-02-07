@@ -54,7 +54,6 @@ Your final paper should include:
 ### Data Resources
 
 - **Interview Transcripts**: [Interview Transcripts](https://sunjinpak.github.io/air-quality-transcripts/) - 40 interviews
-- **Interview Data**: [Interview Data](https://sunjinpak.github.io/SRSC2026/project1.html) - Interview summary and details
 
 ### Writing Tips
 
@@ -121,7 +120,6 @@ Contact Dr. Pak if you have any questions about:
 
 ## Project Files
 - [Interview Transcripts](https://sunjinpak.github.io/air-quality-transcripts/)
-- [Interview Data](https://sunjinpak.github.io/SRSC2026/project1.html)
 
 ---
 
