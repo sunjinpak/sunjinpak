@@ -26,6 +26,8 @@ This document provides instructions for writing your research paper and preparin
 - [Qualitative Research Paper Guide](qualitative-research-paper-guide) - How to write a qualitative research paper in APA format
 - [Literature Review Guide](literature-review-guide) - How to conduct a literature review
 - [Reddit Data Collection Guide](reddit-data-collection-guide) - How to collect data from Reddit
+- [Data Collection Guide](https://sunjinpak.github.io/SRSC2026/project3.html) - Step-by-step data collection instructions
+- [Writing Guide](https://sunjinpak.github.io/SRSC2026/project3-writing-guide.html) - Qualitative paper writing guide
 
 ### Paper Structure
 
@@ -55,6 +57,9 @@ Your final paper should include:
 ### Data Resources
 
 - **Primary Data Source**: [r/IVF Subreddit](https://www.reddit.com/r/IVF/)
+- **Data Collection Google Sheet**: [Project 3 Data Collection](https://docs.google.com/spreadsheets/d/1CFPfVthxXhWM2nncaMf-n7-8NzE5fSl6hL3B-SD1Mz0/edit?gid=0#gid=0)
+- **Codebook**: [Codebook](https://docs.google.com/spreadsheets/d/1CFPfVthxXhWM2nncaMf-n7-8NzE5fSl6hL3B-SD1Mz0/edit?gid=243403948#gid=243403948)
+- **Reference Paper**: [Grandey et al. (2020)](https://drive.google.com/open?id=1_-Y6REpy_5eyPbj59kzkbCpDjDb6B67n&usp=drive_fs)
 
 ### Writing Tips
 
@@ -116,6 +121,12 @@ Contact Dr. Pak if you have any questions about:
 - Paper writing
 - Data analysis
 - Presentation preparation
+
+---
+
+## Project Files
+- [Data Collection Guide](https://sunjinpak.github.io/SRSC2026/project3.html)
+- [Writing Guide](https://sunjinpak.github.io/SRSC2026/project3-writing-guide.html)
 
 ---
 
